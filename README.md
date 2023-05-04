@@ -21,11 +21,15 @@ Next, we will build the linear regression model on the training set and evaluate
 
 Finally, we will interpret the model coefficients to understand which features are significant in predicting the demand for shared bikes and how well those features describe the bike demands.
 
-Repository Structure
+## Repository Structure
+
 The following files and folders are present in this repository:
 
 bike-sharing-assignment.ipynb: a Jupyter notebook containing the code and analysis for the project.
+
 day.csv: the dataset used for this project.
+
 README.md: a file describing the project and repository.
-Conclusion
+
+# Conclusion
 The linear regression model will help BoomBikes to understand the factors affecting the demand for shared bikes in the American market. By manipulating the business strategy based on the model predictions, BoomBikes can meet the demand levels and customer expectations. The model will also be useful for understanding the demand dynamics of a new market.
